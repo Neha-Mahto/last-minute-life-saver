@@ -5,7 +5,7 @@
 Built for the **Vibe2Ship Hackathon** (Problem Statement: *The Last-Minute Life Saver*).
 
 ## 🚀 Live Demo
-👉 **[Click here fo live demo](https://last-minute-life-saver-234940868764.asia-southeast1.run.app)**
+👉 **[Click here for live demo](https://last-minute-life-saver-234940868764.asia-southeast1.run.app)**
 
 ## The Problem
 Existing productivity tools rely on passive reminders that are easy to ignore. They tell you what's due — they don't help you actually finish it.
