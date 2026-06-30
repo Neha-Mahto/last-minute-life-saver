@@ -1,0 +1,6 @@
+{
+  "name": "Last-Minute Life Saver",
+  "description": "An AI-powered productivity assistant that interprets free-text dumps of tasks and commitments, prioritizes them with intelligent reasoning, and autonomously re-plans schedules using tool calling when updates or delays occur.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
